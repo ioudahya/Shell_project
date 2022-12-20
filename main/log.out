@@ -1,0 +1,73 @@
+// #Oudahya Ismaïl BA INFO
+// #000479390
+// #PROJET 1 SHELL SCRIPTING INFO-F201
+Oublie du '/' donc une correction à été faîtes.
+Voici la direction du C : /home/linux/Bureau/projet_shell/Nouveau
+
+Oublie du '/' donc une correction à été faîtes.
+Voici la direction du B : /home/linux/Bureau/projet_shell/test_files
+
+Oublie du '/' donc une correction à été faîtes.
+Voici la direction du A : /home/linux/Bureau/projet_shell/courses.txt
+
+Le dossier Uniersity existe déjà.
+Suppression du dossier...
+Suppression terminer.
+
+
+Création du dossier University
+Création du dossier University terminer.
+Création du sous dossiers...INFO-F101
+Création du sous dossiers...INFO-F102
+Création du sous dossiers...INFO-F103
+Création du sous dossiers...INFO-F104
+Création du sous dossiers...INFO-F105
+Création des sous dossiers terminer.
+
+
+Voici le parcours des dossier et sous dossier : 
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F101 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/dossier/notesinfo-f101
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F101 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/notes1/INFO-F101_resume
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F102 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/notes1/INFO-F102_resume_parfait
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F103 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/notes1/INFO-F103_prof
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F103 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/notes1/info-f103_v6
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F101 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/notes1/notes01
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F102 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/notes1/notes01A
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F101 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/notes1/notes02
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F102 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/notes2/repertoireB/files_info-f102
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F103 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/notes2/repertoireB/files_info-f103
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F101 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/notes2/repertoireB/info-f101
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F101 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/notes2/repertoireB/info-f101_resume
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F102 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/notes2/repertoireB/info-f102_resume_v2
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F103 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/notesINFO-F103_examen
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F102 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/rep_TEMP/notes02B
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F101 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/rep_TEMP/notes03
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F104 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/rep_TEMP/notes03C
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F102 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/rep_TEMP/notes03C_plus
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F101 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/rep_TEMP/notesINFO-F101
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F102 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/rep_TEMP/notesINFO-F102_OK
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F102 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/rep_TEMP/notesinfo-f102_propre
+
+/home/linux/Bureau/projet_shell/Nouveau/University/INFO-F104 	 PRENDS 	 /home/linux/Bureau/projet_shell/test_files/test_info-f104
+
